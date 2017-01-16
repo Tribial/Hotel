@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\Domurad\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\local\Desktop\Domurad\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\local\Desktop\Domurad\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\local\Desktop\Domurad\Hotel\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\Domurad\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\local\Desktop\Domurad\Hotel\Hotel\obj\Debug\Hotel.pdb
